@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# finley-poc-ocr runtime artifacts
+token.json
+credentials.json
+data/
+draw*/
